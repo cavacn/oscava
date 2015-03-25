@@ -1,0 +1,22 @@
+{
+  "name": "oscava",
+  "version": "0.0.1",
+  "description": "自己用的",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cavacn/oscava.git"
+  },
+  "keywords": [
+    "oscava"
+  ],
+  "author": "cava.zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavacn/oscava/issues"
+  },
+  "homepage": "https://github.com/cavacn/oscava"
+}
